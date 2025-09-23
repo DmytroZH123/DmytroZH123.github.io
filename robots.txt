@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dmytrozhuk.github.io/sitemap.xml
+Sitemap: https://dmytrozhuk123.github.io/sitemap.xml
