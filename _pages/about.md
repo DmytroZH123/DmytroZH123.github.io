@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
 Hello everyone! I am an Applied Data Scientist, Artificial Intelligence Engineer, and currently pursuing a Master's degree in Data Science at the [University of Vienna](https://www.univie.ac.at/). I graduated from [Kyiv National Economic University](https://kneu.edu.ua/) with a Bachelor's degree in System Analysis with distinction.
 
 I have worked at the fast-growing cybersecurity company [Whalebone](https://www.whalebone.io/), which develops zero-disruption products for Telcos, ISPs, and enterprises, as a Threat Intelligence Specialist in Brno, Czech Republic. 
