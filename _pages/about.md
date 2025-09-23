@@ -2,12 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic_whalebone.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>dmytrozhuk9@gmail.com</p>
     <p>Vienna, Austria</p>
@@ -35,7 +34,5 @@ During my Master's studies, I spent my time at [CERN](https://home.cern/) as a V
 from the [Cognitive and Digital Science Lab](https://www.tugraz.at/institute/hcc/research/research-groups/cognitive-digital-science-lab/codis) (Technical University of Graz). Research output: 1 peer-reviewed article presented at a conference.
 
 Research Interests: Human-Computer Interaction, Explainable and Transparent Artificial Intelligence, Natural Language Processing, Random Processes, and Reinforcement Learning.
-
-Skills: Proficiency in Machine Learning (Scikit-Learn, Machine Learning Algorithms), Deep Learning (TensorFlow, Keras, PyTorch), Natural Language Processing (NLTK, spaCy, Gensim), Large Language Models (Transformers HF, Ollama, LangChain, Chroma), Data Mining (Beautiful Soup, Urllib3, Selenium), Data Analytics and Analysis (Python, Numpy, Pandas, Polars, Elasticsearch), Data Visualization (Plotly, Seaborn, Gradio, Microsoft PowerBI, Tableau, Kibana), Software Development (Git, Linux, Docker, Modal, Foundations of K8s and Rancher), Relational Databases (SQL, MySQL, SQL Server). Also familiar with object-oriented programming language (Java).
 
 Communicative, responsible, problem-solving, teamwork, creative, have great attention to details, able to work both in team and independently. I have analytical thinking, persistent in achieving goals, and optimist myself. Also, I like jazz music, opera, Italian art, and travelling.

@@ -8,6 +8,4 @@ from the [Cognitive and Digital Science Lab](https://www.tugraz.at/institute/hcc
 
 Research Interests: Human-Computer Interaction, Explainable and Transparent Artificial Intelligence, Natural Language Processing, Random Processes, and Reinforcement Learning.
 
-Skills: Proficiency in Machine Learning (Scikit-Learn, Machine Learning Algorithms), Deep Learning (TensorFlow, Keras, PyTorch), Natural Language Processing (NLTK, spaCy, Gensim), Large Language Models (Transformers HF, Ollama, LangChain, Chroma), Data Mining (Beautiful Soup, Urllib3, Selenium), Data Analytics and Analysis (Python, Numpy, Pandas, Polars, Elasticsearch), Data Visualization (Plotly, Seaborn, Gradio, Microsoft PowerBI, Tableau, Kibana), Software Development (Git, Linux, Docker, Modal, Foundations of K8s and Rancher), Relational Databases (SQL, MySQL, SQL Server). Also familiar with object-oriented programming language (Java).
-
 Communicative, responsible, problem-solving, teamwork, creative, have great attention to details, able to work both in team and independently. I have analytical thinking, persistent in achieving goals, and optimist myself. Also, I like jazz music, opera, Italian art, and travelling.
