@@ -1,6 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://www.linkedin.com/in/dmytro-zhuk/
+#/cv/
 title: CV
 nav: true
 nav_order: 5
