@@ -4,58 +4,75 @@
     "label": "Applied Data Scientist, Artificial Intelligence Engineer",
     "image": "",
     "email": "dmytrozhuk9@gmail.com",
-    "phone": "+123",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "phone": "+4369010539158",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Vienna",
+      "region": "Austria"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "CERN",
+      "position": "Visiting Summer Researcher",
+      "url": "https://www.home.cern/",
+      "startDate": "2025-07-01",
+      "endDate": "2025-10-01",
+      "summary": "",
+      "highlights": ["Human-Computer Interaction", "Cognitive and Digital Science", "Research Methodology"]
+    },
+    {
+      "name": "SBA Research",
+      "position": "R&D Cybersecurity Analyst",
+      "url": "https://www.sba-research.org/",
+      "startDate": "2025-03-01",
+      "endDate": "current",
+      "summary": "",
+      "highlights": ["Explainable and Transparent AI", "Operational Threat Intelligence", "Domain Generation Algorithms (DGAs)", "LLM-driven Reporting"]
+    },
+    {
+      "name": "Whalebone",
+      "position": "Threat Intelligence Specialist",
+      "url": "https://www.whalebone.io/",
+      "startDate": "2022-12-01",
+      "endDate": "2024-10-01",
+      "summary": "",
+      "highlights": ["Data Science", "Machine Learning & Deep Learning", "Clustering Analysis", "Time-series Modelling"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Kyiv National Economic University named after Vadym Hetman",
+      "location": "Kyiv, Ukraine",
+      "position": "Student Teaching Assistant",
+      "url": "https://kneu.edu.ua/",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Creating instructional materials, tests, and assignments for undergraduate courses.",
+      "highlights": ["Simulation of Complex Systems", "Python in the Analysis and Protection of Information", "IT Project Management"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Vienna",
+      "location": "Vienna, Austria",
+      "url": "https://www.univie.ac.at/",
+      "area": "Data Science",
+      "studyType": "Master's degree",
+      "startDate": "2025-01-01",
+      "endDate": "2027",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
+    },
+    {
+      "institution": "Kyiv National Economic University named after Vadym Hetman",
+      "location": "Kyiv, Ukraine",
+      "url": "https://kneu.edu.ua/",
+      "area": "System Analysis",
+      "studyType": "Bachelor's degree",
+      "startDate": "2020-08-31",
+      "endDate": "2024-06-30",
+      "score": "10",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -136,8 +153,91 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Machine Learning & Deep Learning",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Natural Language Processing and Large Language Models",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Data Mining",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Databases",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Mechanics",
@@ -151,50 +251,42 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Czech",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Good",
+      "icon": ""
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Hobbies",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Jazz",
+        "Opera",
+        "Travel",
+        "Classic Films",
+        "Tabletop Gaming"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
