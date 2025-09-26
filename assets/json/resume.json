@@ -10,6 +10,26 @@
       "region": "Austria"
     }
   },
+  "education": [
+    {
+      "institution": "University of Vienna",
+      "location": "Vienna, Austria",
+      "url": "https://www.univie.ac.at/",
+      "area": "Data Science",
+      "studyType": "Master's degree",
+      "startDate": "2025-01-01",
+      "endDate": "2027"
+    },
+    {
+      "institution": "Kyiv National Economic University named after Vadym Hetman",
+      "location": "Kyiv, Ukraine",
+      "url": "https://kneu.edu.ua/",
+      "area": "System Analysis",
+      "studyType": "Bachelor's degree",
+      "startDate": "2020-08-31",
+      "endDate": "2024-06-30"
+    }
+  ],
   "work": [
     {
       "name": "CERN",
@@ -49,26 +69,6 @@
       "endDate": "2024-01-01",
       "summary": "Creating instructional materials, tests, and assignments for undergraduate courses.",
       "highlights": ["Simulation of Complex Systems", "Python in the Analysis and Protection of Information", "IT Project Management"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Vienna",
-      "location": "Vienna, Austria",
-      "url": "https://www.univie.ac.at/",
-      "area": "Data Science",
-      "studyType": "Master's degree",
-      "startDate": "2025-01-01",
-      "endDate": "2027"
-    },
-    {
-      "institution": "Kyiv National Economic University named after Vadym Hetman",
-      "location": "Kyiv, Ukraine",
-      "url": "https://kneu.edu.ua/",
-      "area": "System Analysis",
-      "studyType": "Bachelor's degree",
-      "startDate": "2020-08-31",
-      "endDate": "2024-06-30"
     }
   ],
   "languages": [
