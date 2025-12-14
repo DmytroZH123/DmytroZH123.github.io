@@ -31,6 +31,15 @@
     }
   ],
   "work": [
+        {
+      "name": "CISPA",
+      "position": "Visiting Winter Researcher",
+      "url": "https://cispa.de/en",
+      "startDate": "2025-11-01",
+      "endDate": "2026-02-01",
+      "summary": "",
+      "highlights": ["AI Safety", "Open-source LLM Fine-tuning", "Dataset Inference"]
+    },
     {
       "name": "CERN",
       "position": "Visiting Summer Researcher",
