@@ -86,7 +86,7 @@
       "highlights": ["Data Science", "Machine Learning & Deep Learning", "Clustering Analysis", "Time-series Modelling"]
     }
   ],
-      "summer schools": [
+    "volunteer": [
     {
       "organization": "Max Planck Society",
       "location": "Saarbrücken, Germany",
@@ -103,17 +103,13 @@
       "startDate": "2026-07-23",
       "endDate": "2024-07-31"
     },
-  ],
-    "volunteer": [
     {
       "organization": "Kyiv National Economic University named after Vadym Hetman",
       "location": "Kyiv, Ukraine",
-      "position": "Student Teaching Assistant",
+      "position": "Student Teaching Assistant for Simulation of Complex Systems and Python in the Analysis and Protection of Information.",
       "url": "https://kneu.edu.ua/",
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
-      "summary": "Creating instructional materials, tests, and assignments for undergraduate courses.",
-      "highlights": ["Simulation of Complex Systems", "Python in the Analysis and Protection of Information", "IT Project Management"]
     }
   ],
   "languages": [
