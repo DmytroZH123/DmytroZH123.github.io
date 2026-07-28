@@ -31,7 +31,25 @@
     }
   ],
   "work": [
-        {
+    {
+      "name": "University of Cambridge & Nokia Bell Labs",
+      "position": "Visiting Researcher",
+      "url": "https://www.cam.ac.uk/",
+      "startDate": "2026-07-01",
+      "endDate": "2026-12-01",
+      "summary": "",
+      "highlights": ["Human-Computer Interaction", "Data Visualization", "LLM Value Visualization"]
+    },
+    {
+      "name": "Imperial College London",
+      "position": "Visiting Researcher",
+      "url": "https://www.imperial.ac.uk/",
+      "startDate": "2026-03-01",
+      "endDate": "2026-08-01",
+      "summary": "",
+      "highlights": ["Malware Research", "Dataset Labelling", "Noise Estimation"]
+    },
+    {
       "name": "CISPA",
       "position": "Visiting Winter Researcher",
       "url": "https://cispa.de/en",
@@ -67,6 +85,24 @@
       "summary": "",
       "highlights": ["Data Science", "Machine Learning & Deep Learning", "Clustering Analysis", "Time-series Modelling"]
     }
+  ],
+      "summer schools": [
+    {
+      "organization": "Max Planck Society",
+      "location": "Saarbrücken, Germany",
+      "position": "Pre-doctoral Research School, Computer Science",
+      "url": "https://cmmrs.mpi-sws.org/",
+      "startDate": "2026-08-03",
+      "endDate": "2026-08-07",
+    },
+    {
+      "organization": "Abdus Salam International Centre for Theoretical Physics (ICTP)",
+      "location": "Trieste, Italy",
+      "position": "Advanced School, Applied Machine Learning: Uncertainty and Robustness of DL Models for Science",
+      "url": "https://www.ictp.it/",
+      "startDate": "2026-07-23",
+      "endDate": "2024-07-31"
+    },
   ],
     "volunteer": [
     {
@@ -196,6 +232,11 @@
   ],
   "awards": [
     {
+      "title": "Full Scholarship EAGxNordics",
+      "date": "2026",
+      "summary": "Fully funded participant at a leading effective altruism conference, with a focus on AI safety, high-impact careers, and global risk reduction."
+    },
+    {
       "title": "Honours Bachelor's Degree",
       "date": "2024",
       "summary": "Graduated from Kyiv National Economic University named after Vadym Hetman with distinction."
@@ -222,6 +263,12 @@
     }
   ],
   "certificates": [
+    {
+      "name": "AGI Strategy",
+      "date": "2026-02-01",
+      "issuer": "AI Safety Saarland",
+      "icon": "fa-solid fa-robot"
+    },
     {
       "name": "LLM Engineering: Master AI, Large Language Models & Agents",
       "date": "2024-12-01",
